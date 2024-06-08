@@ -21,4 +21,8 @@ This project involves analyzing Aircraft Incident data in order to provide stake
     1. Non-Amateur built airplanes should be used
     2. Prices should increase when weather is IMC (low enough visibility in which pilots must soley rely on their instruments)
     3. Airplanes with Turbofan engines are the least risky and should be used
-    4. The airplanes purchased should have more than one engine. 
+    4. The airplanes purchased should have more than one engine.
+ 
+  ## Links
+  - [Tableau Dashboard](https://public.tableau.com/views/Aviation_Phase1_Project_EvanCallaghan/AviationDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+  - 
