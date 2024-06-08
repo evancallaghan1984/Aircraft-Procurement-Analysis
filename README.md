@@ -9,10 +9,9 @@ This project involves analyzing Aircraft Incident data in order to provide stake
     -Which model of airplanes are best for our business?
 
 ## Data Understanding and Analysis
-- **Source of Data:** 
-    -Aviation incident data from 1962 to 2023, provided by the National Transportation Safety Board
-- **Description of Data:**
-    -Aircraft type, incident type (serious, non-fatal, fatal, etc.), location, make, model, weather, build, type of engine, number of engines, and more
+- **Source of Data:** Aviation incident data from 1962 to 2023, provided by the National Transportation Safety Board
+- **Description of Data:** Aircraft type, incident type (serious, non-fatal, fatal, etc.), location, make, model, weather, build, type of engine, number of engines, and more
+
 - **Visualizations:**
     1. ![Weather Condition vs. Injury Severity](visuals/WeatherConditionVisual.png)
     2. ![Engine Type vs. Injury Severity](visuals/EngineType.png)
@@ -27,4 +26,4 @@ This project involves analyzing Aircraft Incident data in order to provide stake
   ## Links
   - [Tableau Dashboard](https://public.tableau.com/views/Aviation_Phase1_Project_EvanCallaghan/AviationDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
   -  [Google Slides Presentation](https://docs.google.com/presentation/d/1HxlYW66B83pxPG3o0Ia-qink-9bcmr34VuP13UzF6bc/edit?usp=sharing)
-  
+
