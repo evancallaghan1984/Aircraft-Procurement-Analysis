@@ -5,8 +5,8 @@ This project involves analyzing Aircraft Incident data in order to provide stake
 
 ## Business Understanding
 - **Key Business Questions:**
-- Which type of airplane is least risky for organ transportation, based off the incident data?
-- Which model of airplanes are best for our business?
+    - Which type of airplane is least risky for organ transportation, based off the incident data?
+    - Which model of airplanes are best for our business?
 
 ## Data Understanding and Analysis
 - **Source of Data:** Aviation incident data from 1962 to 2023, provided by the National Transportation Safety Board
