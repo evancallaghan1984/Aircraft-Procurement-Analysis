@@ -6,7 +6,7 @@ This project involves analyzing Aircraft Incident data in order to provide stake
 ## Business Understanding
 - **Key Business Questions:**
     - Which weather conditions are the most risky to fly in?
-    - What type of engine should be use?
+    - What type of engine should be used?
     - Which type of airplane is least risky for organ transportation, based off the incident data?
     - Which model of airplanes are best for our business?
 
