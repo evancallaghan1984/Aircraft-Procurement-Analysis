@@ -21,9 +21,9 @@ This project involves analyzing Aircraft Incident data in order to provide stake
 
 ## Conclusion
 - **Summary of Conclusions:**
-    1. Prices should increase when weather is IMC (low enough visibility in which pilots must soley rely on their instruments).
-    2. Airplanes with Turbofan engines are the least risky engine type and should be used.
-    3. The Turbofan engine airplanes should have multple engines.
+    1. Pricing should be adjusted upwards during IMC (Instrument Meteorological Conditions) when pilots must rely exclusively on their instruments due to low visibility.
+    2. Turbofan engine airplanes are the least risky and should be prioritized for use.
+    3. The selected turbofan engine airplanes should be equipped with multiple engines for enhanced safety.
  
   ## Links
   - [Tableau Dashboard](https://public.tableau.com/views/Aviation_Phase1_Project_EvanCallaghan/AviationDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
