@@ -3,6 +3,8 @@
 ## Overview
 This project involves analyzing Aircraft Incident data in order to provide stakeholders of my hypothetical business "TransOrgo" with recommendations on which airplanes to purchase."TransOrgo" is a service which provides transportation of organs via airplane for time-sensitive medical operations when the recipient is more than 500 miles away and the biological material is needed within 12-24 hours.
 
+<div style="page-break-after: always;"></div>
+
 ## Business Understanding
 - **Key Business Questions:**
     - Which weather conditions are the most risky to fly in?
@@ -18,6 +20,8 @@ This project involves analyzing Aircraft Incident data in order to provide stake
     1. ![Weather Condition vs. Injury Severity](visuals/WeatherConditionVisual.png)
     2. ![Engine Type vs. Injury Severity](visuals/EngineType.png)
     3. ![Number of Engines vs. Injury Severity](visuals/NumOfEngines.png)
+
+<div style="page-break-after: always;"></div>
 
 ## Conclusion
 - **Summary of Conclusions:**
